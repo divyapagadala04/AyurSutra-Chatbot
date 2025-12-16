@@ -1,0 +1,15 @@
+question,Vata,Pitta,Kapha
+Do you often feel cold or experience cold hands/feet?,1,0,0
+Do you sweat easily or feel hot often?,0,1,0
+"Do you tend to have dry, rough skin?",1,0,0
+"Is your appetite variable (sometimes hungry, sometimes not)?",1,0,0
+"Do you prefer cool, soothing environments?",0,1,0
+"Is your digestion strong, and you feel hungry at regular intervals?",0,1,0
+Do you gain weight easily and find it hard to lose?,0,0,1
+Do you have oily skin or hair?,0,1,0
+Are you prone to weight gain or sluggishness?,0,0,1
+Do you feel calm and steady but sometimes too slow or lethargic?,0,0,1
+Is your sleep light and sometimes interrupted?,1,0,0
+Do you feel irritable or angry quickly?,0,1,0
+"Do you generally feel calm, slow-moving, and balanced?",0,0,1
+Do you enjoy physical activities and exercise?,0,1,0
